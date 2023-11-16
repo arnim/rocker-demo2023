@@ -18,6 +18,8 @@ docker run --rm -ti -e PASSWORD=yourpassword -p 8787:8787
 
 Then navigate in your browser to localhost 🎉
 
+See https://docker-curriculum.com — it's a great place to learn more.
+
 ### Using [MyBinder.org](https://MyBinder.org)
 
 Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnim/rocker-demo2023/main)
