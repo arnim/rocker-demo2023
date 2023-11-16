@@ -8,6 +8,8 @@ Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder
 
 RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnim/rocker-demo2023/main?urlpath=rstudio)
 
+--- 
+
 By [Johannes Breuer](https://www.johannesbreuer.com/), [Bernd Weiß](https://www.gesis.org/en/institute/staff/person/Bernd.Weiss), and [Arnim Bleier](https://www.gesis.org/en/institute/staff/person/arnim.bleier)
 
 [![](https://licensebuttons.net/l/by/3.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 
