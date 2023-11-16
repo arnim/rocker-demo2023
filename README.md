@@ -18,7 +18,15 @@ docker run -p 8787:8787 -e PASSWORD=SOME_PASSWORD your-demo-rocker
 
 Then navigate in your browser to http://localhost:8787 🎉
 
-See https://docker-curriculum.com — it's a great place to learn more.
+Or use **[repo2docker](https://github.com/jupyterhub/repo2docker)** and run
+
+```
+jupyter-repo2docker https://github.com/arnim/rocker-demo2023
+```
+
+
+See https://docker-curriculum.com — it's a great place to learn more about docker.
+
 
 ### Using [MyBinder.org](https://MyBinder.org)
 
