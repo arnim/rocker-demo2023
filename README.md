@@ -8,15 +8,15 @@ For **Rocker** (Docker Containers for the R Environment) see: https://rocker-pro
 
 1) **Build:** In the directory containing the *Dockerfile*:
 ```
-rocker-demo2023 % docker build -t some-name .
+docker build -t your-demo-rocker .
 ```
 
 2) **Run:** In the directory containing the Dockerfile:
 ```
-docker run --rm -ti -e PASSWORD=yourpassword demo-rocker23
+docker run -p 8787:8787 -e PASSWORD=SOME_PASSWORD your-demo-rocker
 ```
 
-Then navigate in your browser to localhost 🎉
+Then navigate in your browser to http://localhost:8787 🎉
 
 See https://docker-curriculum.com — it's a great place to learn more.
 

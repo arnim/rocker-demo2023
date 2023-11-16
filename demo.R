@@ -13,3 +13,4 @@ mtcarscyl,levels=c(4,6,8), labels=c("4cyl","6cyl","8cyl"))
 # grouped by number of gears (indicated by color)
 qplot(mpg, data=mtcars, geom="density", fill=gear, alpha=I(.5), main="Distribution of Gas Milage", xlab="Miles Per Gallon", ylab="Density")
 
+print("ggplot2 is fun")
