@@ -13,7 +13,7 @@ rocker-demo2023 % docker build -t some-name .
 
 2) **Run:** In the directory containing the Dockerfile:
 ```
-docker run --rm -ti -e PASSWORD=yourpassword -p 8787:8787
+docker run --rm -ti -e PASSWORD=yourpassword demo-rocker23
 ```
 
 Then navigate in your browser to localhost 🎉
